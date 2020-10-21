@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/torn-trade/static/js/main.84b85663.chunk.js",
-    "main.js.map": "/torn-trade/static/js/main.84b85663.chunk.js.map",
+    "main.js": "/torn-trade/static/js/main.6643456a.chunk.js",
+    "main.js.map": "/torn-trade/static/js/main.6643456a.chunk.js.map",
     "runtime-main.js": "/torn-trade/static/js/runtime-main.7091263f.js",
     "runtime-main.js.map": "/torn-trade/static/js/runtime-main.7091263f.js.map",
     "static/css/2.5d8ac9a3.chunk.css": "/torn-trade/static/css/2.5d8ac9a3.chunk.css",
-    "static/js/2.d1eb3d35.chunk.js": "/torn-trade/static/js/2.d1eb3d35.chunk.js",
-    "static/js/2.d1eb3d35.chunk.js.map": "/torn-trade/static/js/2.d1eb3d35.chunk.js.map",
+    "static/js/2.866891d1.chunk.js": "/torn-trade/static/js/2.866891d1.chunk.js",
+    "static/js/2.866891d1.chunk.js.map": "/torn-trade/static/js/2.866891d1.chunk.js.map",
     "index.html": "/torn-trade/index.html",
-    "precache-manifest.3f02e79390b6f42338dadb21836aedf8.js": "/torn-trade/precache-manifest.3f02e79390b6f42338dadb21836aedf8.js",
+    "precache-manifest.d9a8ff5be4de6243443084f48c05e22a.js": "/torn-trade/precache-manifest.d9a8ff5be4de6243443084f48c05e22a.js",
     "service-worker.js": "/torn-trade/service-worker.js",
     "static/css/2.5d8ac9a3.chunk.css.map": "/torn-trade/static/css/2.5d8ac9a3.chunk.css.map",
-    "static/js/2.d1eb3d35.chunk.js.LICENSE.txt": "/torn-trade/static/js/2.d1eb3d35.chunk.js.LICENSE.txt"
+    "static/js/2.866891d1.chunk.js.LICENSE.txt": "/torn-trade/static/js/2.866891d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7091263f.js",
     "static/css/2.5d8ac9a3.chunk.css",
-    "static/js/2.d1eb3d35.chunk.js",
-    "static/js/main.84b85663.chunk.js"
+    "static/js/2.866891d1.chunk.js",
+    "static/js/main.6643456a.chunk.js"
   ]
 }
