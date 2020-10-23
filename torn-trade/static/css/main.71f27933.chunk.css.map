@@ -1,0 +1,1 @@
+{"version":3,"sources":["common.css"],"names":[],"mappings":"AACA,oCAAuB,eAAiB,CAAE,UAAY","file":"main.71f27933.chunk.css","sourcesContent":["input[type='text'] { font-size: 0.8rem; padding: 5%;}\r\ninput[type='number'] { font-size: 0.8rem; padding: 5%;}"]}
