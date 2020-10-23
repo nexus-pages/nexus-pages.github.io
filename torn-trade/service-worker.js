@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/torn-trade/precache-manifest.300368980c6d26a6465b9575b8747f1c.js"
+  "/torn-trade/precache-manifest.a8bbd918df094a6391bdb8b1e42159f8.js"
 );
 
 self.addEventListener('message', (event) => {
